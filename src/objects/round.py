@@ -1,4 +1,4 @@
-from src.models.course import Course
+from src.objects.course import Course
 
 class Round():
     course = Course()

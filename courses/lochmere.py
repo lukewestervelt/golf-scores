@@ -1,4 +1,11 @@
-def lochmere():
+from src.objects.course import Course
+
+'''
+Lochmere golf course
+
+Constructors for the front, middle, and back 9s.
+'''
+class Lochmere(Course):
     holes = [
         {
             "hole": 1,

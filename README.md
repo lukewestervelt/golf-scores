@@ -12,6 +12,10 @@ This project is aimed at processing golf score data. Golf scores can be compared
 - Python
 - Flask
 
+# To Do List
+- Add courses.csv with name, par and distances of holes. Import this with a method of course
+- 
+
 
 ## Usage
 - Place **.csv** formatted input data in the `data/` folder

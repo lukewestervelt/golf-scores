@@ -1,1 +1,3 @@
 data/*
+!data/sample-scores.csv
+commit-message.txt

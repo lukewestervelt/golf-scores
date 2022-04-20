@@ -1,8 +1,9 @@
-from src.models.course import Course
+from src.objects.course import Course
 
 '''
-Contains constructors for the front, middle, and back 9 of Knights Play golf course.
+Knights Play golf course
 
+Constructors for the front, middle, and back 9s.
 '''
 
 class KnightsPlayFront(Course):
